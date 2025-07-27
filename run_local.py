@@ -2,6 +2,7 @@
 import os
 import subprocess
 import glob
+import sys
 
 def run_scenario(scenario_path, output_base_dir):
     print(f"\n--- Running Scenario: {os.path.basename(scenario_path)} ---")

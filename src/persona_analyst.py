@@ -2,6 +2,8 @@
 import os
 import json
 import sys
+import re
+import pdfplumber
 import spacy
 from collections import defaultdict
 from sklearn.feature_extraction.text import TfidfVectorizer

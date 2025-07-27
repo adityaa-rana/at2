@@ -1,4 +1,4 @@
 pdfplumber
 spacy
-numpy
+numpy<2
 scikit-learn
