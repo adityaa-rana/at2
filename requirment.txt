@@ -1,0 +1,4 @@
+pdfplumber
+spacy
+numpy
+scikit-learn
